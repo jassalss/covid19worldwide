@@ -1,4 +1,4 @@
-### COVID19Worldwide
+## COVID19Worldwide
 
 This is react + redux + material ui project. I created this web app, so people around the world get updates about COVID19 quickly. This web app provides the latest statistics about COVID19. Statistics include the total cases, deaths, recovered, total cases per day, etc. This web app provides the COVID data about more than 200 countries around the world. This web app creates line, bar and pie charts about COVID19 data. Data with graphs is straightforward for the user to understand.
 
