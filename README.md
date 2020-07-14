@@ -7,9 +7,13 @@ This is react + redux + material ui project. I created this web app, so people a
 The state of this app is managed by redux. All data is coming from open source APIs. All APIs call done with help of redux actions. Axios is used for networking. After AXIOS, all data passed to the redux store. Then different components of this web app get data from the redux store.
 
 
-### Deployment and live demo
+## Deployment and live demo
 
 The app is deployed with GoDaddy web services. Please check the following web address for a live demo.
 
 http://covid19worldstatistics.com/
 
+
+### Cached demo
+
+<img src="demo/demo.gif" width="900" height="600" />
