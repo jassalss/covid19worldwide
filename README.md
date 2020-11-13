@@ -16,4 +16,4 @@ http://covid19worldstatistics.com/
 
 ### Cached demo
 
-<img src="demo/demo.gif" width="900" height="600" />
+<img src="https://www.dropbox.com/s/yaqt0qstr5xnlkz/demo.gif?raw=1" alt="demo" width="800" height="600">
