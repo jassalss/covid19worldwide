@@ -9,9 +9,9 @@ The state of this app is managed by redux. All data is coming from open source A
 
 ## Deployment and live demo
 
-The app is deployed with GoDaddy web services. Please check the following web address for a live demo.
+The app is deployed with Vercel web services. Please check the following web address for a live demo.
 
-http://covid19worldstatistics.com/
+https://covid19statistics-eight.vercel.app/
 
 
 ### Cached demo
